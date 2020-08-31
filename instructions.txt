@@ -1,0 +1,26 @@
+Question
+========
+
+Given the supplied tab-delimited input file (src/test/resources/FILE.DAT), 
+write a Java program that loads the data and determines the average amount in Euros (EUR),
+grouped by Country and Credit Rating.If a country is not available, the city should be used instead.
+
+Exchange Rates
+--------------
+
+/t
+
+The following data should be used for exchange rate calculations:
+GBP -> USD  = 1.26
+CHF -> USD  = 1.04
+EUR -> USD  = 1.12
+
+Rules
+-----
+
+1.	This exercise should be treated as a regular work task (i.e. apply usual professional dev practices: unit tests, etc.), to be completed within a day.
+2.	The candidate must work independently, no collaboration is permitted.
+3.	The candidate may conduct research either online or offline as they see fit, in order to complete the task.
+4. 	Use Java 8 and its functionalities.
+5.	On completion, the resulting files must be emailed to Stephen.Pond@lloydsbanking.com for review.
+
